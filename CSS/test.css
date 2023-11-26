@@ -1,0 +1,23 @@
+.form-floating{
+    width: 600px;
+}
+.form1{
+    width: 600px;
+}
+.form-control1{
+    width: 600px;
+}
+.btn btn-primary{
+    align-self: center;
+}
+.login{
+    
+    width: 280px;
+    position: absolute;
+    top: 50%;
+    left: 47%;
+    transform: translate(-20% ,-85%);
+    color: darkblue;
+    float: top;
+    font-size: 10px;
+}

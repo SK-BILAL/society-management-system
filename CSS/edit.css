@@ -1,0 +1,88 @@
+body{
+    
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: url(u.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.box{
+    
+    width: 350px;
+    box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+    padding: 20px;
+    background: #fff;
+    margin: 8% auto 0;
+    text-align: center;
+    transform: translate(+3%, -12%);
+    
+    
+    }
+.box h1{
+    
+    color:darkblue;
+    margin-bottom: 30px;
+    transform: translate(0%,-90%);
+    float:none;
+    font-size: 40;
+    }
+.input-box
+{
+    transform: translate(0%,-165%);
+    border-radius: 20px;
+    margin: 10px 0;
+    padding: 10px ;
+    outline: none;
+    width: 100%;
+    border: 1px solid #999;
+}
+
+button
+{
+    color: #fff;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    width: 100%;
+    cursor: pointer;
+    font-size: 16px;
+    
+}
+.edit-btn
+{
+    background-color: #21c8db;
+    width: 150;
+    padding: 5px;
+    font-size: 20px;
+    cursor: pointer;
+    margin: 12px 0;
+    transform: translate(+10%,-180%);
+}
+.back-btn
+{
+    background-color: #21c8db;
+    width: 100;
+    padding: 5px;
+    font-size: 20px;
+    cursor: pointer;
+    margin: 12px 0;
+    transform: translate(+10%,-180%);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,150 @@
+body{
+    background-position: center;
+    background-size: cover;
+    font-family: sans-serif;
+    background-image: url("https://citygrowsys.com/webcontent/images/solutions/building-management.jpg");
+    margin-top: 40px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.profile{
+    width: 800px;
+    background-color: (211,211,211);
+    margin: auto;
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+    border-radius: 15px 15px 0px 0px;
+}
+
+.main{
+    background-color: rgb(47,79,79);
+    width: 800px;
+    margin: auto;
+}
+
+form{
+    padding: 10px;   
+}
+
+#name{
+    width: 85px;
+    height: 85px;
+    font-size: 18px;
+}
+.name{
+    margin-left: -20px;
+    margin-top: 30px;
+    width: 125px;
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.fname{
+    position: relative;
+    left: 155px;
+    top: -20px;
+    border-radius: 3px;
+    line-height: 20px;
+    padding: 0 22px;
+    font-size: 16px;
+}
+
+.E-mail{
+    margin-left: -20px;
+    margin-top: -35px;
+    width: 125px;
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.email{
+    position: relative;
+    left: -110px;
+    top: -23px;
+    border-radius: 3px;
+    line-height: 20px;
+    padding: 0 22px;
+    font-size: 16px;
+}
+
+.Phone{
+    margin-top: -7px;
+    margin-left: -20px;
+    width: 125px;
+    color: white;
+    font-size: 18px;
+    font-weight: 700px;
+}
+
+.number{
+    position: relative;
+    margin-left: -250px;
+    top: -25px;
+    border-radius: 3px;
+    line-height: 20px;
+    padding: 0 22px;
+}
+
+.Buildingname{
+margin-top: -8px;
+margin-left: px;
+width: 125px;
+color: white;
+font-size: 18px;
+font-weight: 700px;
+}
+
+.Buildname{
+    position: relative;
+    margin-left: -250px;
+    top: -20px;
+    border-radius: 3px;
+    line-height: 20px;
+    padding: 0 22px;
+}
+
+.FlatNo{
+    margin-top: -8px;
+margin-left: px;
+width: 125px;
+color: white;
+font-size: 18px;
+font-weight: 700px;
+}
+   
+
+.Flatno{
+    position: relative;
+    margin-left: -250px;
+    top: -20px;
+    border-radius: 3px;
+    line-height: 20px;
+    padding: 0 22px;
+}
+
+.Maintanence{
+    margin-top: -8px;
+    margin-left: px;
+    width: 125px;
+    color: white;
+    font-size: 18px;
+    font-weight: 700px;
+}
+
+.MaintanenceDetails{
+    position: relative;
+    margin-left: -250px;
+    top: -20px;
+    border-radius: 3px;
+    line-height: 20px;
+    padding: 0 22px;
+}
+
+
+

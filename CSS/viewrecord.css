@@ -1,0 +1,39 @@
+body{
+    
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: url(v.jpg);
+    background-size: cover;
+    background-position:bottom;
+}
+.form2{
+    width: 400px;
+    height: 100px;
+}
+.form1{
+    width: 400px;
+}
+
+.form-label1{
+    
+   transform: translate(-30%,-90%);
+}
+
+.btn btn-dark{
+    align-self: center;
+    width: 20px;
+}
+
+.maintain{
+    
+    width: 200px;
+    position:relative;
+    bottom: -10%;
+    left: 47%;
+/*    transform: translate(-20% ,-200%);*/
+    scroll-behavior: auto;
+    color: darkblue;
+    float: top;
+    
+}

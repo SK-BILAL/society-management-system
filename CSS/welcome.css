@@ -1,0 +1,16 @@
+body{
+     
+    margin: 0;
+    padding: 0;
+    background: url(bg3.jpg) repeat;
+    background-size: cover;
+    
+}
+.Welcome{
+    
+    margin: 0;
+    color: #fff;
+    padding: 0;
+    border-bottom: 20px;
+    
+}
